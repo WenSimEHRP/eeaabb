@@ -1,5 +1,5 @@
 
-![eeaabb](./title.png)
+![eeaabb](https://raw.githubusercontent.com/WenSimEHRP/eeaabb/refs/heads/main/title.png)
 
 Visual debug helpers for Typst to extract element axis-aligned bounding boxes (AABB).
 
