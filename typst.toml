@@ -1,0 +1,7 @@
+[package]
+name = "eeaabb"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Jeremy Gao <@wensimehrp>"]
+license = "MIT"
+description = "Extract element AABB's and inspect sizes"
